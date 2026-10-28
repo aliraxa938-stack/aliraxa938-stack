@@ -1,5 +1,18 @@
 # 💫 About Me:
-# Hi there, I'm Ali Raza 👋<br><br>### 🚀 Full-Stack Developer & Cloud/DevOps Enthusiast<br><br>I am a Computer Science student with hands-on industry experience in building full-stack web platforms, automated workflows, and managing cloud environments. Passionate about leveraging cutting-edge AI development tools to build efficient, scalable systems.<br><br>---<br><br>### 🌟 Professional Highlights & Experience<br><br>- 💻 **Full-Stack Developer (ex-Netzbay):** Developed and delivered robust web platforms, managing both frontend UIs and backend database architecture.<br>- 🚗 **End-to-End Automotive Services Platform:** Engineed 4 high-converting production websites and full system workflows for a complete VIN verification campaign.<br>- 🎓 **Educational Portals:** Designed and implemented full-featured student management portals.<br>- 🐧 **Linux & Infrastructure Operations:** Well-versed in Linux administration, VPS setup, reverse proxies, and cloud infrastructure deployment.<br>- 🤖 **AI-Driven Engineering:** Proficient in integrating AI development tools to accelerate coding, automate data workflows, and streamline software architecture.<br><br>---<br><br>### 🛠️ Core Tech Stack<br><br>**Languages & Frontend:**<br>`Python` `JavaScript` `HTML5` `Tailwind CSS`<br><br>**Backend & Databases:**<br>`Node.js` `REST APIs` `MongoDB` `Payment Gateways (Stripe / Airwallex)`<br><br>**Cloud, Linux & DevOps:**<br>`Linux / VPS` `Docker` `Nginx` `Git & GitHub` `Render` `DigitalOcean`<br><br>
+# Hi, I'm Ali Raza 👋
+
+> **Full-Stack Developer & Cloud Enthusiast**  
+> Computer Science student building scalable web platforms, cloud infrastructure, and AI-driven automation.
+
+---
+
+### 🚀 Highlights & Experience
+
+- 💻 **Ex-Full Stack Developer @ Netzbay** — Built production web applications, managing frontend interfaces and database systems.
+- 🚗 **Automotive Platform (VIN Campaign)** — Engineered 4 end-to-end production websites and integration workflows.
+- 🎓 **Student Management Portals** — Designed and built portal systems for educational management.
+- 🐧 **Linux & VPS Administration** — Experienced in Linux servers, web proxies, and cloud deployments.
+- 🤖 **AI-Driven Workflows** — Utilizing AI development tools to optimize backend logic and automate pipelines.
 
 
 ## 🌐 Socials:
